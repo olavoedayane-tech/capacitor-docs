@@ -20,3 +20,9 @@ Capacitor provides a consistent, web-focused set of APIs that enable an app to s
 Getting started with Capacitor is easy! Capacitor can be dropped into any existing modern JavaScript project, or a fresh Capacitor project can be created from scratch.
 
 Follow the [Installation guide](/main/getting-started/installation.md) to get started building your app.
+
+npm install
+npx cap add android
+npm run build
+npx cap sync
+npx cap run android
